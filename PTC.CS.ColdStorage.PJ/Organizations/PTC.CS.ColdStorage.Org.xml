@@ -9,7 +9,7 @@
          documentationContent=""
          homeMashup="PTC.CS.ColdStorage.MU"
          loginButtonStyle="DefaultButtonStyle"
-         loginPrompt=""
+         loginPrompt="Enter Login Credentials"
          loginResetPassword="false"
          loginStyle="DefaultAutoRefreshToggleStyle"
          mobileMashup=""
