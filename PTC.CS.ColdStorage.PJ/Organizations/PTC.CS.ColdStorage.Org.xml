@@ -8,7 +8,7 @@
          description=""
          documentationContent=""
          homeMashup="PTC.CS.ColdStorage.MU"
-         loginButtonStyle="DefaultButtonStyle"
+         loginButtonStyle="DefaultBlogButtonsStyle"
          loginPrompt=""
          loginResetPassword="false"
          loginStyle="DefaultAutoRefreshToggleStyle"
